@@ -80,8 +80,8 @@ const SignUpPage = () => {
 />
         <br />
         <label>
-          <input type="checkbox" required /> I agree to the terms & conditions
-          and privacy policy.
+          <input type="checkbox" required /> I agree to the <a href="#"> terms & conditions
+          </a> and <a href='# '>privacy policy </a>
         </label>
         <br />
         <button type="submit">Sign Up</button>
